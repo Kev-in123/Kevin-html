@@ -7,50 +7,12 @@
 	padding: 15px;
 }
 /*image scaling*/
-.images {
-	width: 100%;
-	height: auto;
-}
 
-.images2 {
-	width:15%;
-	height: auto;
-}
 body {
 	background: #CCC;
 }
 
-h6 {
-	text-align:center;
-	font-size:60px;
-}
 
-.click_here {
-	text-align:center;
-	font-size: 30px;
-}
-
-h5 {
-	text-align:center;
-	font-size: 40px;
-}
-
-h2 {
-	color:red;
-	font-family: Arial, sans-serif;
-	font-size: 45px;
-	
-}
-
-h3 {
-	font-size: 30px;
-	font-family: Arial, sans-serif;
-}
-
-p {
-	font-size:25px;
-	font-family: Arial, sans-serif;
-}
 #main_title {
 	font-size: 50px;
 }
@@ -58,4 +20,7 @@ p {
 	
 a {
 	font-size: 25px;
+}
+.swd-button {
+    display: inline-block;
 }
